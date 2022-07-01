@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/valodagreat/MicroserveAss/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/valodagreat/MicroserveAss/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/valodagreat/Microservice/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/valodagreat/Microservice/tree/main)
 
 ## Project Overview 
 
